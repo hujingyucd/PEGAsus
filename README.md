@@ -26,7 +26,7 @@ Results are saved to `outputs/` as `.glb`, `.ply` and `.mp4`.
 
 ### Note on Reproducibility
 
-Generation is stochastic, so results can vary across runs, GPUs and library versions, even with the same seed. If a result does not match the expected one, try running it again with a different `--seed`.
+Generation is stochastic, so results can vary across runs. If a result does not match the expected one, try running it again with a different `--seed`.
 
 ## Acknowledgements
 
