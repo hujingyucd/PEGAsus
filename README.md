@@ -17,11 +17,7 @@ The pre-trained weights are downloaded automatically on first use.
 ## Run Examples
 
 ```bash
-# all examples
 python inference.py --config configs/examples.yaml
-
-# a cat of the spiky beetle concept
-python inference.py --concept spiky_beetle --prompt cat
 ```
 
 The concepts are `house_frame`, `spiky_beetle`, `block_castle`, `palm_tree` and `catapult`; their reference meshes are in `references/`.
