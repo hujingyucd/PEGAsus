@@ -1,0 +1,16 @@
+# Example objects: python inference.py --config configs/examples.yaml
+examples:
+  - {concept: house_frame, prompt: vase, seed: 1001}
+  - {concept: house_frame, prompt: car, seed: 1006}
+  - {concept: house_frame, prompt: chair, seed: 1002}
+  - {concept: spiky_beetle, prompt: cat, seed: 1006}
+  - {concept: spiky_beetle, prompt: dog, seed: 1007}
+  - {concept: spiky_beetle, prompt: dinosaur, seed: 1002}
+  - {concept: block_castle, prompt: chair, seed: 1002}
+  - {concept: block_castle, prompt: vase, seed: 1007}
+  - {concept: palm_tree, prompt: bowl, seed: 1002}
+  - {concept: palm_tree, prompt: robot, seed: 1003}
+  - {concept: palm_tree, prompt: vase, seed: 1002}
+  - {concept: catapult, prompt: chair, seed: 1008}
+  - {concept: catapult, prompt: horse, seed: 1006}
+  - {concept: catapult, prompt: lamp, seed: 1006}
